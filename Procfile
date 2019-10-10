@@ -1,1 +1,1 @@
-web: gunicorn fibonacci_project.wsgi
+web: gunicorn task.wsgi
